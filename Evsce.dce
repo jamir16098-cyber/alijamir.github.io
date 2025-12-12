@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Islamic World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #006a4e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .photo {
+            width: 100%;
+            max-width: 350px;
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #006a4e;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Islamic World</h1>
+</header>
+
+<div class="container">
+    <h2>About Islam</h2>
+    <p>
+        Islam is a religion of peace. Muslims believe in one God (Allah) and follow the teachings of Prophet Muhammad (PBUH).
+    </p>
+
+    <img src="your-photo.jpg" class="photo" alt="Islamic photo">
+
+    <h2>Important Beliefs</h2>
+    <ul>
+        <li>Belief in One God</li>
+        <li>Prophethood</li>
+        <li>Holy Quran</li>
+        <li>Day of Judgment</li>
+        <li>Angels</li>
+    </ul>
+</div>
+
+</body>
+</html>
