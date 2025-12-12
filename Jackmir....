@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Islamic World</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f4f8;
+      color: #333;
+    }
+    header {
+      background-color: #006a4e;
+      color: white;
+      text-align: center;
+      padding: 30px;
+    }
+    header h1 {
+      font-size: 2.5em;
+    }
+    section {
+      padding: 20px 10%;
+    }
+    img {
+      width: 100%;
+      border-radius: 15px;
+      margin-top: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
+    h2 {
+      color: #004d40;
+      margin-top: 30px;
+    }
+    footer {
+      background-color: #006a4e;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+    }
+    .highlight {
+      color: #00796b;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>The Islamic World 🌙</h1>
+    <p>A glimpse into the beauty, faith, and unity of Islam</p>
+  </header>
+
+  <section>
+    <h2>About Islam</h2>
+    <p>
+      <span class="highlight">Islam</span> is one of the world's major religions, followed by over 1.9 billion people.
+      It teaches belief in one God — <b>Allah</b> — and the final Prophet <b>Muhammad (peace be upon him)</b>.
+      The Holy Book of Islam is the <b>Qur'an</b>, revealed in Arabic more than 1400 years ago.
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Quran_Koran.jpg/640px-Quran_Koran.jpg" alt="The Holy Quran">
+
+    <h2>Pillars of Islam</h2>
+    <ul>
+      <li>Shahadah – Faith in Allah and His Messenger</li>
+      <li>Salah – Performing five daily prayers</li>
+      <li>Zakat – Giving charity to those in need</li>
+      <li>Sawm – Fasting during the month of Ramadan</li>
+      <li>Hajj – Pilgrimage to the holy city of Makkah</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Kaaba_Masjid_al-Haram_Mecca.jpg" alt="Kaaba in Makkah">
+
+    <h2>Beautiful Places in the Islamic World</h2>
+    <p>
+      The Islamic world spans across Asia, Africa, and Europe — rich in culture, art, and architecture.
+      Here are some iconic places that represent the heritage of Islam.
+    </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Al-Masjid_An-Nabawi.jpg" alt="Masjid An Nabawi in Madinah">
+    <p><b>Masjid An-Nabawi</b> — The Prophet’s Mosque in Madinah, Saudi Arabia.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sultan_Ahmed_Mosque_Istanbul_Turkey.jpg" alt="Blue Mosque Istanbul">
+    <p><b>Sultan Ahmed Mosque (Blue Mosque)</b> — Istanbul, Turkey.</p>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Badshahi_Mosque_Lahore.jpg" alt="Badshahi Mosque Lahore">
+    <p><b>Badshahi Mosque</b> — Lahore, Pakistan.</p>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ to share knowledge about Islam | © 2025 Islamic World Project</p>
+  </footer>
+
+</body>
+</html>
